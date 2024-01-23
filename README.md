@@ -23,4 +23,12 @@ Una vez obtenidos los datos se procede a realizar el trabajo de ETL con Python u
 
 Con los datos obtenidos se crea un tablero interactivo con Power Bi para que se pueda acceder de manera más simple a la información
 
+El tablero se encuentra disponible en: https://app.powerbi.com/view?r=eyJrIjoiYjM2OWFhYTktZmNjYS00YzhhLTg3ZDEtOGU4ZTc5Njc4MGZmIiwidCI6IjMyZjlmODNkLTA2ODMtNDVkMC1hZDE3LTdjMGI5MTNhZmNiOCJ9
+
+![img_01](/src/estimacionesagricolas_01.jpg)
+
+![img_02](/src/estimacionesagricolas_02.jpg)
+
+![img_03](/src/estimacionesagricolas_03.jpg)
+
 ![img_04](/src/estimacionesAgricolas_04.jpg)
